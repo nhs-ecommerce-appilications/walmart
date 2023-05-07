@@ -1,4 +1,5 @@
-This file contains string related functions
+Haritha : updating this file
+his file contains string related functions
 Hello i am updating this file ...
 
 
